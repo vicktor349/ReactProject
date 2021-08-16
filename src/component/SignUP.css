@@ -1,0 +1,21 @@
+body{
+    background-image: url('./images/img-home.jpg');
+}
+.outterMost-div{
+    text-align: center;
+    margin-top: 10%;
+}
+.input-items{
+    background-color: transparent;
+    padding: 8px;
+    margin: 20px;
+    border: none;
+    border-bottom: 2px solid #000;
+    width: 50%;
+    outline-style: none;
+}
+.input-items::placeholder{
+    color: #fff;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}

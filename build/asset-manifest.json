@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Segun-Victor/ReactProject/static/css/main.38764db4.chunk.css",
+    "main.js": "/Segun-Victor/ReactProject/static/js/main.e940113c.chunk.js",
+    "main.js.map": "/Segun-Victor/ReactProject/static/js/main.e940113c.chunk.js.map",
+    "runtime-main.js": "/Segun-Victor/ReactProject/static/js/runtime-main.8e46171c.js",
+    "runtime-main.js.map": "/Segun-Victor/ReactProject/static/js/runtime-main.8e46171c.js.map",
+    "static/js/2.faf2af76.chunk.js": "/Segun-Victor/ReactProject/static/js/2.faf2af76.chunk.js",
+    "static/js/2.faf2af76.chunk.js.map": "/Segun-Victor/ReactProject/static/js/2.faf2af76.chunk.js.map",
+    "index.html": "/Segun-Victor/ReactProject/index.html",
+    "static/css/main.38764db4.chunk.css.map": "/Segun-Victor/ReactProject/static/css/main.38764db4.chunk.css.map",
+    "static/js/2.faf2af76.chunk.js.LICENSE.txt": "/Segun-Victor/ReactProject/static/js/2.faf2af76.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Segun-Victor/ReactProject/static/media/img-8.fabdf94d.jpg",
+    "static/media/Body.css": "/Segun-Victor/ReactProject/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e46171c.js",
+    "static/js/2.faf2af76.chunk.js",
+    "static/css/main.38764db4.chunk.css",
+    "static/js/main.e940113c.chunk.js"
+  ]
+}
